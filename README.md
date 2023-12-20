@@ -1,2 +1,2 @@
-# guidelines
-Comprehensive selection of code guidelines
+# Guidelines & Standards
+[Home](https://github.com/gaitnet/guidelines/wiki)
